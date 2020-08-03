@@ -1,0 +1,1 @@
+Saya screenshot satu per satu setiap relasinya karena garisnya tidak merefer langsung ke atribut yang dituju.
